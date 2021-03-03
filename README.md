@@ -1,4 +1,4 @@
-# Academic-Projects
+# Projects
 A list of all the links to my academic projects:
 
 https://github.com/asharoff/DataEngineeringCS410
@@ -9,7 +9,7 @@ https://github.com/asharoff/DataStorageActivity/blob/main/load_inserts.py
 
 https://github.com/asharoff/DataIntegration
 
-Open Source Contributions:
+My Open Source Contributions:
 
 https://gerrit.onap.org/r/c/multicloud/k8s/+/113139
 
